@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/iishun/rails/iishun/app/controllers'
+let g:netrw_dirhist_2='/home/iishun/cinch/lib/cinch'
+let g:netrw_dirhist_3='/home/iishun/cinch/lib/cinch/configuration'
