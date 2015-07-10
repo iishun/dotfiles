@@ -10,6 +10,7 @@ set laststatus=2
 set showmode
 set ambiwidth=double
 set hidden
+set history=3000
 syntax on
 "colorscheme jellybeans
 autocmd BufRead,BufNewFile *.erb set filetype=eruby.html
