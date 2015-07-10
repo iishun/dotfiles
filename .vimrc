@@ -9,6 +9,7 @@ set showmatch
 set laststatus=2
 set showmode
 set ambiwidth=double
+set hidden
 syntax on
 "colorscheme jellybeans
 autocmd BufRead,BufNewFile *.erb set filetype=eruby.html
