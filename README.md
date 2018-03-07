@@ -1,4 +1,4 @@
 # dotfiles
 + dotfiles
-+- .bashrc
-+- .vimrc
+ + .bashrc
+ + .vimrc
